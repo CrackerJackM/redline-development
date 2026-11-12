@@ -7,7 +7,7 @@
 window.REDLINE_APPS = [
   {
     name: "Redline Mods",
-    repo: "FireDude17XL/redline-mods",        // owner/repo on GitHub
+    repo: "FireDude17XL/redline-mods-releases", // public releases-only repo (source stays private)
     tagline: "Mods built by the Redline team.", // TODO: one-line pitch
     description:
       "TODO: a short paragraph on what Redline Mods does and who it's for.",
